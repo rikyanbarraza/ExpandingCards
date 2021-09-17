@@ -2,7 +2,7 @@
 -------------------------------
 * Flipping cards that expand on click in what ever order is clicked
 -------------------------------
-* https://distracted-mestorf-4b5676.netlify.app/
+* https://distracted-mestorf-4b5676.netlify.app/ (live demo)
 -------------------------------
 ![exp 1](https://user-images.githubusercontent.com/72126060/133805307-985315ed-e21a-4c74-8111-b071d567ee2b.jpg)
 -------------------------------
